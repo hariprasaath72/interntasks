@@ -1,0 +1,23 @@
+<html>
+<head>
+    <title>Image Gallery</title>
+</head>
+<body>
+    <div>
+        <img src="1.jpeg" alt="Image 1" width="300" height="200">
+        <p>Caption for Image 1</p>
+    </div>
+    <div>
+        <img src="2.jpeg" alt="Image 2" width="300" height="200">
+        <p>Caption for Image 2</p>
+    </div>
+    <div>
+        <img src="3.jpeg" alt="Image 3" width="300" height="200">
+        <p>Caption for Image 3</p>
+    </div>
+    <div>
+        <img src="4.jpeg" alt="Image 4" width="300" height="200">
+        <p>Caption for Image 4</p>
+    </div>
+</body>
+</html>

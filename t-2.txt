@@ -1,0 +1,32 @@
+<html>
+<head><title>
+HTML FORMS</title>
+</head>
+<body>
+<form>
+<h1>Personal Details</h1>
+<label>First name</lable><br>
+<input type="text" name="fn" id="01" placeholder="hari" autofocus="on"><br>
+<label>Last name</lable><br>
+<input type="text" name="fn" id="02" placeholder="prasaath"><br></fieldset>
+<lable>gender</lable><br>
+Male<input type="radio" name="gender">
+Female<input type="radio" name="gender" ><br>
+HOBBY<br>
+<input type="checkbox" name="h1" id="05" value="">editing<br>
+<input type="checkbox" name="h2" id="06" value="">reading<br>
+<input type="checkbox" name="h3" id="07" value="">writing<br>
+<label>E-mail</label><br>
+<input type="email" name="email"><br>
+<label>Phone number:</label><br>
+<input type="text" maxlength="10" name="no" id="p"><br>
+<label>choose college</label><br>
+<select name="col" size="3" multiple><br>
+<option>KEC</option>
+<option>BIT</option>
+<option>VIT</option>
+<option>VECT</option>
+<input type="submit"><br>
+</form>
+</body>
+</html>

@@ -1,0 +1,39 @@
+<html>
+<head>
+    <title>Data Table</title>
+</head>
+<body>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>NAME</th>
+                <th>AGE</th>
+                <th>GENDER</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Ram</td>
+                <td>21</td>
+                <td>MALE</td>
+            </tr>
+            <tr>
+                <td>Pooja</td>
+                <td>24</td>
+                <td>FEMALE</td>
+            </tr>
+            <tr>
+                <td>Yash</td>
+                <td>23</td>
+                <td>MALE</td>
+            </tr>
+		<tr>
+                <td>Laksmi</td>
+                <td>22</td>
+                <td>FEMALE</td>
+            </tr>
+
+        </tbody>
+    </table>
+</body>
+</html>
